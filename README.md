@@ -1,4 +1,4 @@
-# LG01-P IoT Gateway (LoRa® technology) Connection and console Output scripts.
+# LG01-P IoT Gateway (LoRa®) SSH Connection and Console Output scripts.
 
 *Connecting*:-
 Use the Connect_ssh.sh script to simply connect to your dragino gateway.
