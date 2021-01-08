@@ -27,8 +27,6 @@ You can use Termux and connect to gateway from android.
 By these commands:-
 ```bash
 pkg install ssh
-```
-```bash
 pkg install sshpass
 ```
 3. Then create a new storage by this command:-
