@@ -4,16 +4,19 @@
 Use the Connect_ssh.sh script to simply connect to your dragino gateway.
 
 
-## Download_Console_Output_ssh.sh:-
-Use the Download_Console_Output.sh script.
+## Console_Output_Save_ssh.sh:-
+Use the Console_Output_Save_ssh.sh script to save output of gateway ssh console.
 
-0. Have a Dragino Gateway set to wifi Access Point and connect your Android phone (locally) to it.
+## Connect on Android
+You can use Termux and connect to gateway from android.
+0. Have a Dragino Gateway set to become a wifi Access Point and connect your Android phone (locally via wifi) to it.
 1. On Android Download Termux.
 2. Then download the following packages by these commands:-
-a. pkg install ssh
-b. pkg install sshpass
+..* pkg install ssh
+..* pkg install sshpass
 3. Then create a new storage by this command:-
 termux-setup-storage
-4. Navigate to the script folder and type "bash script_name.sh"
+4. Navigate to the script folder and type:-
+bash script_name.sh
 
 Note: the 't' is the time it would keep downloading to text one file.
