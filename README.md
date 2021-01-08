@@ -6,6 +6,10 @@ Use the Connect_ssh.sh script to simply connect to your dragino gateway.
 
 ## Connect and save console output:-
 Use the Console_Output_Save_ssh.sh script to save output of gateway ssh console.
+##### Code Description:
+The 't' is the time it would keep downloading to text one file.
+While 'x' is the name appended to the name of files.
+
 
 ## Connect on Android:-
 You can use Termux and connect to gateway from android.
@@ -29,5 +33,3 @@ termux-setup-storage
 ```bash
 bash script_name.sh
 ```
-
-Note: the 't' is the time it would keep downloading to text one file.
