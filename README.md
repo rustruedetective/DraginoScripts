@@ -1,3 +1,6 @@
+https://img.shields.io/badge/Scripting-SSH-black/?color=blue&style=flat&logo=ubuntu
+https://img.shields.io/badge/Hardware-Dragino-black/?color=ff8000&style=flat&logo=arduino
+
 # LG01-P IoT Gateway (LoRa®) SSH 
 <br/><br/>
 
