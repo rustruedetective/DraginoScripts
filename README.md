@@ -12,8 +12,8 @@ You can use Termux and connect to gateway from android.
 0. Have a Dragino Gateway set to become a wifi Access Point and connect your Android phone (locally via wifi) to it.
 1. On Android Download Termux.
 2. Then download the following packages by these commands:-
-⋅⋅* pkg install ssh
-⋅⋅* pkg install sshpass
+- pkg install ssh
+- pkg install sshpass
 3. Then create a new storage by this command:-
 termux-setup-storage
 4. Navigate to the script folder and type:-
