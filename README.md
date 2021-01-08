@@ -1,4 +1,4 @@
-# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+LG01-P IoT Gateway (LoRa®) SSH) `#f03c15` 
+# LG01-P IoT Gateway (LoRa®) SSH 
 <br/><br/>
 
 ## Connect:-
