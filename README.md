@@ -7,10 +7,13 @@ Use the Connect_ssh.sh script to simply connect to your dragino gateway.
 
 
 ## Connect and save console output:-
+Lets say you view something on the console of the gateway, to debug or check data received by it. You can save/log that data for later use by saving it in a new file inside the gateway's storage.  
 Use the Console_Output_Save_ssh.sh script to save output of gateway ssh console.
 ##### Code Description:
-The 't' is the time it would keep downloading to text one file.  
-While 'x' is the name appended to the name of files.
+_My version for gateway console terminates the current file and creates a new one if size becomes too large._
+'t' is the time it would keep downloading to text one file.  
+'x' is the name appended to the name of files.
+'format' is the file format.
 <br/><br/><br/>
 
 
