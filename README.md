@@ -23,8 +23,8 @@ You can use Termux and connect to gateway from android.
 1. On Android Download Termux.
 2. Then download the following packages:-
    - ssh
-   - sshpass  
- By these commands:-
+   - sshpass
+   By these commands:-
 ```bash
 pkg install ssh
 pkg install sshpass
