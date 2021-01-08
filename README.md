@@ -11,12 +11,13 @@ Use the Console_Output_Save_ssh.sh script to save output of gateway ssh console.
 You can use Termux and connect to gateway from android.
 0. Have a Dragino Gateway set to become a wifi Access Point and connect your Android phone (locally via wifi) to it.
 1. On Android Download Termux.
-2. Then download the following packages by these commands:-
-- 
+2. Then download the following packages:-
+- ssh
+- sshpass
+by these commands:-
 ```bash
 pkg install ssh
 ```
-- 
 ```bash
 pkg install sshpass
 ```
