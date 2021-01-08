@@ -1,10 +1,10 @@
 # LG01-P IoT Gateway (LoRa®) SSH Connection and Console Output scripts.
 
-*Connecting*:-
+## Connect_Ssh.sh:-
 Use the Connect_ssh.sh script to simply connect to your dragino gateway.
 
 
-*Downloading the console output to a file on android*:-
+## Download_Console_Output_Ssh.sh:-
 Use the Download_Console_Output.sh script.
 
 0. Have a Dragino Gateway set to wifi Access Point and connect your Android phone (locally) to it.
