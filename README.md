@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Made-with-SSH-black/?color=blue&style=flat&logo=ubuntu)
+![Made-with-python](https://img.shields.io/badge/Made-with-SSH-black/?color=blue&style=flat&logo=ubuntu)
 ![version](https://img.shields.io/badge/Hardware-Dragino-black/?color=ff8000&style=flat&logo=arduino)
 
 # LG01-P IoT Gateway (LoRa®) SSH 
